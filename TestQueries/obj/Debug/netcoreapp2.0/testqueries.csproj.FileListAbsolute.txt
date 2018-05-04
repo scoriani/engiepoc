@@ -1,0 +1,12 @@
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\obj\Debug\netcoreapp2.0\testqueries.csproj.CoreCompileInputs.cache
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\obj\Debug\netcoreapp2.0\testqueries.AssemblyInfoInputs.cache
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\obj\Debug\netcoreapp2.0\testqueries.AssemblyInfo.cs
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\bin\Debug\netcoreapp2.0\testqueries.dll.config
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\bin\Debug\netcoreapp2.0\testqueries.deps.json
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\bin\Debug\netcoreapp2.0\testqueries.runtimeconfig.json
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\bin\Debug\netcoreapp2.0\testqueries.runtimeconfig.dev.json
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\bin\Debug\netcoreapp2.0\testqueries.dll
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\bin\Debug\netcoreapp2.0\testqueries.pdb
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\obj\Debug\netcoreapp2.0\testqueries.dll
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\obj\Debug\netcoreapp2.0\testqueries.pdb
+C:\Users\scoriani\source\repos\engiepoc\TestQueries\obj\Debug\netcoreapp2.0\testqueries.csprojResolveAssemblyReference.cache
