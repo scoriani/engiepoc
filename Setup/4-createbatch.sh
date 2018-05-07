@@ -1,3 +1,3 @@
 az login
 
-az batch account create -g testengie --name engiebatch --location westeurope --storage-account testengie
+az batch account create -g testengie --name engiebatch --location westeurope --storage-account engieaccount
