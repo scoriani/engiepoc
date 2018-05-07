@@ -1,7 +1,7 @@
 az login
 
 ## Create a VM
-az vm create -g testengie -n customvm --admin-username <username> --admin-password <pwd> --image Ubuntu
+az vm create -g testengie -n customvm --admin-username <username> --admin-password <pwd> --image UbuntuLTS
 
 ## Install Docker CE (https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
