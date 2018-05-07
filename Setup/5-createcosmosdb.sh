@@ -1,13 +1,13 @@
 az login
 
 ## create CosmosDB account
-az cosmosdb create -g testengie --locations westeurope --kind GlobalDocumentDB --name engiecosmosdb
+az cosmosdb create --resource-group testengie --kind GlobalDocumentDB --name engiecosmosdb
 
 ## take note of keys for next steps and to configure connection string for ingestion app
-az cosmosdb list-keys -g engie --name ingestiontest
+az cosmosdb list-keys -g testengie --name engiecosmosdb
 
 ## Create database container
-az cosmosdb database create -g testengie --name dbaccount --key <insertkey> --db-name dbname
+az cosmosdb database create -g testengie --name engiecosmosdb --key <insertkey> --db-name dbengiepoc
 
 # Create partitioned collection with high throughput
-az cosmosdb collection create -g testengie --name ingestion --name dbaccount --key <insertkey> --db-name dbname --throughput 100000 --partition-key-path /partitionKey
+az cosmosdb collection create -g testengie --collection-name ingestion --name engiecosmosdb --key <insertkey> --db-name dbengiepoc --throughput 100000 --partition-key-path /partitionKey
